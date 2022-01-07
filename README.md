@@ -19,6 +19,7 @@ Why is SpaceCat so special?
 ✔The limited token supply (900 million) will speed up the boosting of the SpaceCat price.
 ✔In order to minimize/break major whale actions, the maximum transaction amount limited to 4 million SpaceCat.
 Important Links
+
 Website - https://spacecattoken.com
 
 Twitter - https://twitter.com/SpaceCatToken
