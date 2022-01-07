@@ -1,14 +1,23 @@
 Introduction
 Overview
 SpaceCat is a deflationary, reflection token deployed on the Binance Smart Chain (BSC). The SpaceCat contract consists of four key features as static rewards, auto burn, development fee acquisition, and liquidity acquisition. 
+
 Each SpaceCat transaction will be taxed at 10% of the transaction amount. Then a 6% fee will be redistributed to all existing holders through a rebasing mechanism, 1% will be burned by transferring to the dead wallet, another 1% will be transferred to the development wallet, and the remaining 2% will be accumulated internally until sufficient capital is gathered, and the total tokens accumulated will be split with half being converted to BNB and the total being supplied as liquidity.
+
 Details of the Token 
+
 Token Name: SpaceCat
+
 Symbol: SpaceCat
+
 Block Chain: Binance Smart Chain(BEP20)
+
 Total Supply: 900,000,000 SpaceCat
+
 Decimals: 18
+
 Contract address: 0x2De05c1bc3330BBFcba89f878f799eD65c87Dc22
+
 Contract Owner: 0x4887e3b3d49A3E53A29aDa7e9E00Bb012E41e8eB
 
 Why is SpaceCat so special?
