@@ -10,13 +10,21 @@ Total Supply: 900,000,000 SpaceCat
 Decimals: 18
 Contract address: 0x2De05c1bc3330BBFcba89f878f799eD65c87Dc22
 Contract Owner: 0x4887e3b3d49A3E53A29aDa7e9E00Bb012E41e8eB
+
 Why is SpaceCat so special?
+
 ✔ No team tokens reserved.
+
 ✔ The initial contract ownership has assigned to a Multi-Signature wallet with a 3/5 threshold, to prevent a single point of failure due to mishandling of the private key. 
+
 ✔After the CertiK audit, each community votes to determine the ownership of the contract, and the team will give up the ownership and transfer the developer wallet at the same time.
+
 ✔ To protect the LP tokens from being stolen, accessing LP tokens is restricted by assigning the contract itself as the receiver of LP tokens on adding Liquidity.
+
 ✔ Initial Liquidity Providers Tokens locked forever on PinkLock. 
+
 ✔The limited token supply (900 million) will speed up the boosting of the SpaceCat price.
+
 ✔In order to minimize/break major whale actions, the maximum transaction amount limited to 4 million SpaceCat.
 Important Links
 
